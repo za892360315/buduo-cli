@@ -1,6 +1,6 @@
 {
   "name": "buduo-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "buduo-cli 脚手架工具",
   "type": "commonjs",
   "main": "index.js",
