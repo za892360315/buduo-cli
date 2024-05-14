@@ -16,7 +16,7 @@ const logger = createLogger({
 });
 
 // const goodPrinter = async () => {
-//     const data = await figlet('dawei-cli');
+//     const data = await figlet('buduo-cli');
 //     console.log(chalk.rgb(40, 156, 193).visible(data));
 // };
 
