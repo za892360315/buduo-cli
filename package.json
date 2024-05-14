@@ -1,6 +1,6 @@
 {
   "name": "buduo-cli",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "buduo-cli 脚手架工具",
   "type": "commonjs",
   "main": "index.js",
@@ -31,6 +31,7 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4",
     "@types/fs-extra": "^11.0.2",
+    "@types/lodash": "^4.14.202",
     "axios": "^1.6.2",
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
